@@ -100,8 +100,7 @@ mixed up.
 - Test against real boards once hardware is back (confirm the ACK
   assumption above actually holds on real firmware)
 - Hook this into wherever the JSON is actually coming from/going to on the
-  Pi side 
-- LED board CAN firmware itself is separate and still needs to be written
+  Pi side
 
 ## Requirements
 
